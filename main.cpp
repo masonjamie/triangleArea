@@ -1,5 +1,5 @@
 #include <iostream>
-#include "functions.h"
+#include "returnTriangle.h"
 #include "test.h"
 
 using namespace std;

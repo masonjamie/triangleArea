@@ -1,6 +1,5 @@
 using namespace std;
 
-
 bool test(double b, double h, double expected){
   if(triangleArea(b,h)==expected){
     cout <<"Pass"<<endl;
